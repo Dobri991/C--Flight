@@ -1,0 +1,34 @@
+Flight Information
+Flight ID: 111
+Takeoff from: SOF
+Landing to: PAR
+Stopover in:  (None)
+Airline type: Boeing 737
+Maximum number of passengers: 111
+Number of rows: 11
+Takeoff date: 12/17/2017 12:00:00 AM
+Landing date: 12/17/2017 12:00:00 AM
+Eating on board: True
+
+Flight ID: 1
+Takeoff from: PAR
+Landing to: PAR
+Stopover in:  ROM
+Airline type: Eclipse 
+Maximum number of passengers: 111
+Number of rows: 1
+Takeoff date: 12/17/2017 12:00:00 AM
+Landing date: 12/17/2017 12:00:00 AM
+Eating on board: True
+
+Flight ID: 1
+Takeoff from: SOF
+Landing to: BER
+Stopover in:  IST
+Airline type: Boeing 737
+Maximum number of passengers: 11
+Number of rows: 1
+Takeoff date: 12/17/2017 12:00:00 AM
+Landing date: 12/17/2017 12:00:00 AM
+Eating on board: True
+
